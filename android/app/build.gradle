@@ -44,7 +44,7 @@ android {
   }
 
   defaultConfig {
-    applicationId "com.actduck.videogame"
+    applicationId "com.hamar.multigame"
     minSdk 23
     targetSdkVersion 33
     versionCode flutterVersionCode.toInteger()
