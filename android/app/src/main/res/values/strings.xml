@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">Video Game</string>
+  <string name="app_name">Multigame</string>
   <string name="title_emu_mame">MAME Plugin</string>
   <string name="title_emu_nes">NES Plugin</string>
   <string name="title_emu_snes">SNES Plugin</string>
