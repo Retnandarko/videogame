@@ -118,3 +118,5 @@ flutter_intl:
   enabled: true
   localizely:
     project_id: 2011cc41-53e1-48ce-b1da-c75a4e9c8097
+dependency_overrides:
+  font_awesome_flutter: 10.9.1
